@@ -13,6 +13,9 @@
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
            revision="refs/tags/android-13.0.0_r75" />
+  
+  <remote name="reyaanshdroid"
+        fetch="https://github.com/ReyaanshDroid/" />
 
   <default revision="refs/heads/lineage-20.0"
            remote="github"
