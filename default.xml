@@ -10,6 +10,9 @@
 
   <remote name="gitlab"
           fetch="https://gitlab.com" />
+  
+  <remote name="reyaanshdroid"
+          fetch="https://github.com/ReyaanshDroid/" />
 
   <default revision="refs/tags/android-13.0.0_r75"
            remote="aosp"
